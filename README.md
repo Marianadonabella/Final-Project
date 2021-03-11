@@ -57,3 +57,4 @@ Fifth step: refining data visualization
 In this repository you'll find:
 - Folder "data": data used for bulding the model, JOLTS data about general US quiting numbers, JOLTS data about general US current employees numbers
 - Folder "analysis": eploration of different datasets, final notebook with ML prediction
+- Folder "extra_material": presentation document with all the figures
